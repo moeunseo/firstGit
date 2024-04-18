@@ -1,5 +1,0 @@
-package vo;
-
-public class UserVO {
-	private int o
-}
